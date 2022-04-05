@@ -8,6 +8,11 @@
   padding: 10px;
 }
 
+.footer {
+  position: absolute;
+  bottom: 0;
+}
+
 .social-links{
   display: flex;
   text-align: center;
